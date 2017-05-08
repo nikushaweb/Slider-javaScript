@@ -1,0 +1,2 @@
+# Slider-javaScript
+jQuery Slider 
